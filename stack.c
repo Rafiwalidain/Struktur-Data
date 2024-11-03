@@ -86,9 +86,9 @@ int main(){
 	
 	do {
 		printf ("Menu Operasi Stack:\n");
-        printf ("1. Push (Tambah elemen)\n");
-        printf ("2. Pop (Hapus elemen)\n");
-        printf ("3. Top (Lihat elemen teratas)\n");
+        printf ("1. Push (Tambah kata)\n");
+        printf ("2. Pop (Hapus kata atas)\n");
+        printf ("3. Top (Lihat kata teratas)\n");
         printf ("4. Cek Apakah Stack Kosong\n");
         printf ("5. Destroy Stack\n");
         printf ("6. Keluar\n");
